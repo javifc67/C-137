@@ -1,0 +1,63 @@
+h1{
+	text-align: center;
+	
+}
+body{
+	text-align: center;
+	font-family: arial;
+	background-color: #003300;
+}
+p{
+	border-style: dotted;
+	color: 
+}
+.prueba{
+	
+	padding: 10px, 100px, 100px, 10px;
+	border:10px outset;
+	margin-left:100px;
+	margin-top: 10px;
+	margin-right: 100px;
+}
+li{
+	display: ;
+}
+.tabla{
+	/*display:inline; */
+  	list-style-type: none;
+  	margin: auto;
+  	width: 50%;
+  	padding: 10px 10px;
+  	position: relative; /* Make it stick, even on scroll */
+}
+.cabecera{
+	font-family: arial;
+	background-color: #66ff99;
+	text-align: center;
+	color: green;
+	border: 10px solid black;
+	text-shadow: 2px 2px 3px black;
+	box-shadow: 10px 10px green;
+}
+.cajasombra1{
+	padding: 10px, 100px, 100px, 10px;
+	border: 10px solid black;
+	margin-left:100px;
+	margin-top: 10px;
+	margin-right: 100px;
+	box-shadow: 10px 10px green;
+	background-color: #66ff99;
+}
+#panel, .flip {
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  border: solid 1px #a6d8a8;
+  margin: auto;
+}
+
+#panel {
+  display: none;
+}
